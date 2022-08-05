@@ -34,3 +34,7 @@ MachineIdentifier,HasDetections
 etc.
 ```
 
+
+# **NOTE:**
+ 
+Due to github being unable to display plotly outputs even though it works fine on your local machine, you can find the jupyter notebook with all plotly outputs displayed correctly [here](https://nbviewer.org/github/anubhavde/vigilant-journey/blob/main/malware-prediction.ipynb). 
